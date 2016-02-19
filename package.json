@@ -1,0 +1,22 @@
+{
+  "name": "simplekeymirror",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Quickly create an object with values equal to its key names.",
+  "main": "index.js",
+  "author": "Adrian le Bas <adrian@adrians.info> (http://adrians.info/)",
+  "keywords": [
+    "keymirror",
+    "flux",
+    "react",
+    "javascript",
+    "tool",
+    "util",
+    "redux",
+    "nuclear"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianleb/simpleKeyMirror"
+  }
+}
